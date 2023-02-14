@@ -6,7 +6,7 @@ public class JenkinsExample {
  System.out.println("Developing the skillsup application for learning");
   System.out.println("Adding the live class feature");
  System.out.println("Adding the online live class");
-  System.out.println("Adding the exam feature along with mocktest3");
+  System.out.println9("Test");
  }
 
 }
