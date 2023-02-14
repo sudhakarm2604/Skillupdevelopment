@@ -8,6 +8,7 @@ public class JenkinsExample {
  System.out.println("Adding the online live class");
   System.out.println("Adding the exam feature along with mocktest3");
   System.out.println("Adding survey");
+  System.out.println("Adding class");
  }
 
 }
